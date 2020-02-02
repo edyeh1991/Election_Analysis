@@ -6,7 +6,7 @@ Election audit of a recent local congressional election
 -Data Source: election_results.csv
 -Software: Python 3.7, Visual Studio Code 1.41.1
 
-##Summary
+## Summary
 The analysis of the election show that:
 -Out of the 3 candidates, Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane,
   -Out of a total of 369,711 votes
